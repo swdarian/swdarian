@@ -79,7 +79,7 @@ Languages
 
 # 🔥 GitHub Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=DilanCalvo&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=swdarian&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 # 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=torvalds&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=swdarian&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
