@@ -48,7 +48,10 @@ public class Dilan {
     }
 
 }
-💡 More About Me
+```
+---
+
+# 💡 More About Me
 <div align="center">
 <ul>
 <li>🎓 Student focused on <b>software development</b></li>
@@ -58,33 +61,45 @@ public class Dilan {
 </ul>
 </div>
 
-🛠️ Technologies & Tools
+---
+
+# 🛠️ Technologies & Tools
 Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
-Tools
+---
+
+# Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
-🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=DilanCalvo&theme=tokyonight&hide_border=true"/>
 </p>
 
-🌟 Mindset
+---
+
+# 🌟 Mindset
 <p align="center">
 Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 </p>
 
-👀 Profile Views
+---
+
+# 👀 Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DilanCalvo&color=blueviolet&style=for-the-badge"/>
 </p>
 
-📫 Connect With Me
+---
+
+# 📫 Connect With Me
 <p align="center">
 <a href="https://instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -93,5 +108,7 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+
+---
 
 <p align="center"> 💭 <i>"Code, learn, improve, repeat."</i> </p>
