@@ -1,4 +1,4 @@
-# 👨‍💻 Dilan Calvo
+# 👨‍💻 Marvin Darian Rosales Gonzales
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Programming+Student;Backend+Developer;Tech+Enthusiast;Always+Learning" />
@@ -8,54 +8,53 @@
 
 # 🚀 About Me
 
-```java
-public class Dilan {
+```python
+class Darian:
 
-    String name = "Dilan Calvo";
-    String role = "Programming Student";
-    String focus = "Backend Development";
+    def __init__(self):
+        self.name = "Darian"
+        self.role = "Programming Student"
+        self.focus = "Networks"
 
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    };
+        self.languages = [
+            "Powershell",
+            "Python",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
 
-    String[] learning = {
-        "Object-Oriented Programming",
-        "Data Structures",
-        "Algorithms",
-        "Backend Development"
-    };
+        self.learning = [
+            "Networking systems",
+            "Data Structures",
+            "Algorithms",
+            "Databases"
+        ]
 
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "VS Code",
-        "IntelliJ"
-    };
+        self.tools = [
+            "GitHub",
+            "VS Code",
+            "Powershell",
+            "CMD"
+        ]
 
-    String[] hobbies = {
-        "Programming",
-        "Learning",
-        "Technology"
-    };
+        self.hobbies = [
+            "Programming",
+            "GYM",
+            "Powerlifting"
+        ]
 
-    public void sayHi() {
-        System.out.println("Thanks for visiting my GitHub profile!");
-    }
-
-}
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile!")
 ```
+
 ---
 
 # 💡 More About Me
 <div align="center">
 <ul>
 <li>🎓 Student focused on <b>software development</b></li>
-<li>💻 Interested in <b>backend development and programming</b></li>
+<li>💻 Interested in <b>Networking and Cibersecurity</b></li>
 <li>🚀 Building projects to improve programming skills</li>
 <li>📚 Self-learner mindset</li>
 </ul>
@@ -66,14 +65,14 @@ public class Dilan {
 # 🛠️ Technologies & Tools
 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=powershell,python,js,html,css" />
 </p>
 
 ---
 
 # Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=github,vscode,console" />
 </p>
 
 ---
@@ -94,7 +93,7 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 # 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DilanCalvo&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=swdarian&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
