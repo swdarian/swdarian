@@ -8,7 +8,8 @@
 
 # 🚀 About Me
 
-```<language>
+```
+<language>
 class Developer {
 
     String name = "<Name>";
@@ -39,6 +40,9 @@ class Developer {
     };
 
 }
+
+```
+
 💡 More About Me
 <div align="center"> <ul> <li>🎓 <Education or current studies></li> <li>💻 <Main programming interest></li> <li>🚀 <What you are currently building or learning></li> <li>📚 <Learning mindset></li> </ul> </div>
 🛠️ Technologies & Tools
