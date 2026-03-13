@@ -59,7 +59,7 @@ Tools
 ---
 
 🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=<github-username>&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=swdarian&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
@@ -69,7 +69,7 @@ Tools
 ---
 
 👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=<github-username>&color=blueviolet&style=for-the-badge"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swdarian&color=blueviolet&style=for-the-badge"/> </p>
 
 ---
 
